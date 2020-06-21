@@ -2,7 +2,7 @@
 
 1. [Instalação e Configuração](https://github.com/luanlinares/challenge_qa_zk/blob/master/README.md#instalacao-e-configuracao)  
 
-2. [Execução dos Testes](https://github.com/luanlinares/challenge_qa_zk/blob/master/README.md#execucao-dos-testes)  
+2. [Execução dos Testes Automatizados](https://github.com/luanlinares/challenge_qa_zk/blob/master/README.md#execucao-dos-testes-automatizados)  
 
 3. [Estrutura do Projeto](https://github.com/luanlinares/challenge_qa_zk/blob/master/README.md#estrutura-do-projeto)
 
