@@ -1,12 +1,12 @@
   # Teste WEB de visualização de perfil de profissionais na plataforma ZenKlub
 
-1. [Instalação e Configuração](https://github.com/luanlinares/challenge_qa_zk/blob/master/README.md#instalacao-e-configuracao)  
+1. [Instalação e Configuração](https://github.com/luanlinares/challenge_qa_zk#instala%C3%A7%C3%A3o-e-configura%C3%A7%C3%A3o)  
 
-2. [Execução dos Testes Automatizados](https://github.com/luanlinares/challenge_qa_zk/blob/master/README.md#execucao-dos-testes-automatizados)  
+2. [Execução dos Testes Automatizados](https://github.com/luanlinares/challenge_qa_zk/blob/master/README.md#execução-dos-testes-automatizados)  
 
 3. [Estrutura do Projeto](https://github.com/luanlinares/challenge_qa_zk/blob/master/README.md#estrutura-do-projeto)
 
-4. [Considerações Gerais](https://github.com/luanlinares/challenge_qa_zk/blob/master/README.md#consideracoes-gerais) 
+4. [Considerações Gerais](https://github.com/luanlinares/challenge_qa_zk/blob/master/README.md#considerações-gerais) 
 
 4. [Extras](https://github.com/luanlinares/challenge_qa_zk/blob/master/README.md#extras)  
 
