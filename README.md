@@ -50,9 +50,11 @@ Esse projeto foi realizado utilizando Ruby como linguagem em sua versão 2.6.6
     `ruby -v`
 
 *Importante:*
+
 Caso tenha alguma versão do Ruby ja instalada, não é necessario reinstalar. Apenas atualizar para a versão mais recente. 
 
 **Bundler**
+
 Responsável por gerenciar as instalações das dependências. 
 
 Para instalar o bundler, basta executar o seguinte comando:
@@ -61,6 +63,7 @@ Para instalar o bundler, basta executar o seguinte comando:
 
 
 **ChromeDriver**
+
 O projeto está configurado para ser executado no navegador Google Chrome. Sendo assim é necessário realizar o download do ChromeDriver de acordo com a versão do seu navegador [neste link](https://chromedriver.chromium.org/downloads). 
 
 O arquivo chromedriver, preferencialmente deve ser armazenado na pasta Ruby/bin.
@@ -73,18 +76,28 @@ https://code.visualstudio.com/download
 
 **Plugins**
 Ruby;
+
 ruby-rubocop;
+
 Cucumber (Gherkin) Full Support;
+
 Snippets and Syntax Highlight for Gherkin (Cucumber).
 
 
 **Dependências**
+
 As dependências utilizadas no projeto estão no arquivo 'gemfile', são elas: 
+
 byebug
+
 capybara
+
 cucumber
+
 selenium-webdriver
+
 site_prism
+
 rubocop
 
 
