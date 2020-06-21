@@ -4,7 +4,7 @@
 
 2. [Execução dos Testes](https://github.com/luanlinares/challenge_qa_zk/blob/master/README.md#execucao-dos-testes)  
 
-3. [Estrutura do Projeto](https://github.com/luanlinares/challenge_qa_zkblob/master/README.md#estrutura-do-projeto)
+3. [Estrutura do Projeto](https://github.com/luanlinares/challenge_qa_zk/blob/master/README.md#estrutura-do-projeto)
 
 4. [Considerações Gerais](https://github.com/luanlinares/challenge_qa_zk/blob/master/README.md#consideracoes-gerais) 
 
