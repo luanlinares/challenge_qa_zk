@@ -11,7 +11,7 @@
 4. [Extras](https://github.com/luanlinares/challenge_qa_zk/blob/master/README.md#extras)  
 
 
-> # Instalacao e Configuracao
+> # Instalação e Configuração
 
 **Ruby**
 
@@ -116,7 +116,7 @@ rubocop
         `https://github.com/luanlinares/challenge_qa_zk.git`
 
 
->  # Execucao dos Testes Automatizados
+>  # Execução dos Testes Automatizados
 
 **Na pasta automation_tests**
 
@@ -151,7 +151,7 @@ Arquivo de relatório da execução dos testes.
 
 
 
->  # Consideracoes Gerais
+>  # Considerações Gerais
 
 **Quais testes foram realizados?**
  
@@ -160,6 +160,7 @@ Arquivo de relatório da execução dos testes.
 3. Visualização detalhada do perfil do primeiro profissional listado na busca. 
 
 >  # Extras
+
 **O que contém a pasta extras?**
 
 1. Vídeo da execução do teste.
