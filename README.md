@@ -34,11 +34,13 @@ Esse projeto foi realizado utilizando Ruby como linguagem em sua versão 2.6.6
     `ruby -v`
 
  Se a sua instalação foi realizada corretamente, você deve visualizar algo parecido com:
+        
         ruby 2.6.6p146 (2020-03-31 revision 67876) [x64-mingw32]
 
 *Para Instalação no Linux, realize os seguintes passos:*
 
 1. Execute o seguinte comando no terminal
+   
    `rbenv install 2.6.6`
 
 2. Accesse o terminal e verifique se a instalação foi realizada corretamente
@@ -52,7 +54,9 @@ Caso tenha alguma versão do Ruby ja instalada, não é necessario reinstalar. A
 
 **Bundler**
 Responsável por gerenciar as instalações das dependências. 
+
 Para instalar o bundler, basta executar o seguinte comando:
+ 
  `gem install bundler`
 
 
@@ -102,7 +106,9 @@ rubocop
 **Na pasta automation_tests**
 
 *Bundle Install* → Irá instalar todas as dependências necessárias para execução dos testes.
+
 *Cucumber* → Irá executar todos os cenários de teste do projeto exibindo o resultado no terminal
+
 *cucumber --format html --out=report.html* → Irá executar todos os cenários de teste e ao final, um relatório em formato HTML será gerado na pasta tests.
 
 
@@ -112,9 +118,13 @@ rubocop
 Pasta principal do projeto com toda a estrutura necessária para execução. Contém as seguintes subpastas. 
 
 *pages* → Contém arquivos auxiliares, onde serão armazenadas as classes e métodos de teste, podendo ser reutilizados em qualquer arquivo.
+
 *specs* → Armazena os arquivos .feature, que descrevem os cenários de teste utilizando BDD. 
+
 *step_definitions* → Faz a chamnada dos métodos e classes das pages para executar os cenários descritos nos arquivos .feature
-*support* → Contém os arquivos de configuração do projeto, onde são determinados os navegadores, url padrão, tempo máximo de espera, ações realizadas antes e depois de cada cenário, entre outros. 
+
+*support* → Contém os arquivos de configuração do projeto, onde são determinados os navegadores, url padrão, tempo máximo de espera, 
+ações realizadas antes e depois de cada cenário, entre outros. 
 
 
 **Gemfile e Gemfile.lock**
