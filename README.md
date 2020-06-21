@@ -70,11 +70,13 @@ O arquivo chromedriver, preferencialmente deve ser armazenado na pasta Ruby/bin.
 
 
 **IDE - Visual Studio Code**
+
 Nesse projeto, utilizamos a IDE VSCode para escrever nossos testes. Para instalar basta acessar o link abaixo para fazer o download do mesmo:
 
 https://code.visualstudio.com/download
 
 **Plugins**
+
 Ruby;
 
 ruby-rubocop;
