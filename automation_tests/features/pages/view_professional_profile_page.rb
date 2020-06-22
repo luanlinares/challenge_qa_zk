@@ -8,6 +8,8 @@ class AuxiliarPage < SitePrism::Page
   element :btn_view_more, ':nth-child(1) > app-professional-search > .container > .row > .professional-link > .btn'
   element :chat_specialist, '#show-chat-with-professional'
   element :calendar, '> div > div > div.col-12.col-lg-5.position-relative > div'
+  element :assessments, '#testimonials > div.section_bg > div > div > div.col-12.mb-5.text-center.text-white > h3'
+  element :profile_data, 'div:nth-child(4) > div.col-12.col-md-4.col-lg-3 > h6'
 
   def login
     useremail.set('qachallenge@zenklub.com')
@@ -26,13 +28,14 @@ class AuxiliarPage < SitePrism::Page
   end
 
   def view_professional_profile
-    sleep(3)
     btn_view_more.click
-    page.assert_text('EXPERIÊNCIA')
-    page.assert_text('DESCRIÇÃO PESSOAL')
-    page.assert_text('POLÍTICA DE REMARCAÇÃO')
-    page.assert_text('Minhas Avaliações')
     page.has_selector?('calendar')
     page.has_selector?('chat_specialist')
+    page.assert_text('EXPERIÊNCIA')
+    profile_data.hover
+    page.assert_text('DESCRIÇÃO PESSOAL')
+    page.assert_text('POLÍTICA DE REMARCAÇÃO')
+    assessments.hover
+    page.assert_text('Minhas Avaliações')
   end
 end

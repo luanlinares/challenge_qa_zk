@@ -1,6 +1,6 @@
 #language: pt
 
-Funcionalidade: Validar respostas da página de perguntas
+Funcionalidade: Visualizar perfil do primeiro profissional indicado na busca
 Eu como usuário quero visualizar o perfil completo do profissional selecionado para obter maiores informações. 
 
 
