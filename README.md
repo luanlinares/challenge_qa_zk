@@ -1,4 +1,4 @@
-  # Teste WEB de visualização de perfil de profissionais na plataforma ZenKlub
+  # Desafio QA - ZenKlub
 
 1. [Instalação e Configuração](https://github.com/luanlinares/challenge_qa_zk#instala%C3%A7%C3%A3o-e-configura%C3%A7%C3%A3o)  
 
