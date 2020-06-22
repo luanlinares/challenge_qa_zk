@@ -164,7 +164,7 @@ Arquivo de relatório da execução dos testes.
 **O que contém a pasta extras?**
 
 1. Vídeo da execução do teste.
-2. Relatório extra de teste de performance, utilizando a ferramenta .
-3. Relatório extra de teste de acessibilidade, utilizando a ferramenta . 
+2. Relatório extra de teste de performance Desktop, utilizando a ferramenta Google Page Speed.
+3. Relatório extra de teste de performance Mobile, utilizando a ferramenta Google Page Speed. 
 
 
